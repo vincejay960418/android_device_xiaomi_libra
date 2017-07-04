@@ -132,19 +132,3 @@ ro.qc.sdk.sensors.gestures=true
 # Time services
 persist.timed.enable=true
 
-# Hardware Info
-ro.device.chipset=Qualcomm MSM8992 Snapdragon 808
-ro.device.cpu=Hexa-core (4x1.4 GHz Cortex-A53 & 2x1.8 GHz Cortex-A57)
-ro.device.gpu=Adreno 418
-ro.device.front_cam=5 MP
-ro.device.rear_cam=13 MP
-ro.device.screen_res=1080 x 1920 (~441 ppi pixel density)
-
-# ADB
-ro.adb.secure=0
-ro.secure=0
-ro.allow.mock.location=1
-persist.service.adb.enable=1
-persist.service.debuggable=1
-persist.sys.usb.config=mtp,adb
-
